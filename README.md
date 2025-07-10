@@ -6,7 +6,7 @@ This is a submission for the **Frontend Developer Assignment** provided by Qutri
 - React.js
 - Chart.js (via react-chartjs-2)
 - HTML, CSS (with responsive styling)
-- IDE: Eclipse / Visual Studio Code
+- IDE: Eclipse IDE 
 
 ## ✨ Features
 - Input X & Y values (comma-separated)
