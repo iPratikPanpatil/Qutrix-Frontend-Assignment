@@ -1,4 +1,5 @@
 # Qutrix-Frontend-Assignment
+
 This is a submission for the **Frontend Developer Assignment** provided by Qutrix.
 
 ## 🔧 Technologies Used
@@ -16,18 +17,24 @@ This is a submission for the **Frontend Developer Assignment** provided by Qutri
 - Clean and accessible UI design
 
 ## 📸 Screenshots
-_Refer to the `/screenshots` folder or see below:_
 
-![Screenshot 1](screenshots/screen1.png)
-![Screenshot 2](screenshots/screen2.png)
+### 1. Input Form UI
+![Screenshot 1](https://github.com/iPratikPanpatil/Qutrix-Frontend-Assignment/blob/main/screenshots/screenshot%201.png?raw=true)
+
+### 2. Generated Chart + Table View
+![Screenshot 2](https://github.com/iPratikPanpatil/Qutrix-Frontend-Assignment/blob/main/screenshots/screenshot%202.png?raw=true)
+
+### 3. Exported Graph Preview
+![Screenshot 3](https://github.com/iPratikPanpatil/Qutrix-Frontend-Assignment/blob/main/screenshots/screenshot%203.png?raw=true)
 
 ## 📹 Demo Video
-[Click here to watch the video demo](https://your-video-link.com)
+
+🎥 [Click here to watch the video demo](https://github.com/iPratikPanpatil/Qutrix-Frontend-Assignment/blob/main/Graph%20Plotter%20-%20Qutrix%20Assignment.mp4)
 
 ## 🚀 Getting Started Locally
+
 ```bash
-git clone https://github.com/your-username/qutrix-frontend-assignment.git
-cd qutrix-frontend-assignment
+git clone https://github.com/iPratikPanpatil/Qutrix-Frontend-Assignment.git
+cd Qutrix-Frontend-Assignment
 npm install
 npm run dev
-
