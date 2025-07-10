@@ -16,21 +16,6 @@ This is a submission for the **Frontend Developer Assignment** provided by Qutri
 - Includes **Download Chart** (as PNG) functionality
 - Clean and accessible UI design
 
-## 📸 Screenshots
-
-### 1. Input Form UI
-![Screenshot 1](https://github.com/iPratikPanpatil/Qutrix-Frontend-Assignment/blob/main/screenshots/screenshot%201.png?raw=true)
-
-### 2. Generated Chart + Table View
-![Screenshot 2](https://github.com/iPratikPanpatil/Qutrix-Frontend-Assignment/blob/main/screenshots/screenshot%202.png?raw=true)
-
-### 3. Exported Graph Preview
-![Screenshot 3](https://github.com/iPratikPanpatil/Qutrix-Frontend-Assignment/blob/main/screenshots/screenshot%203.png?raw=true)
-
-## 📹 Demo Video
-
-🎥 [Click here to watch the video demo](https://github.com/iPratikPanpatil/Qutrix-Frontend-Assignment/blob/main/Graph%20Plotter%20-%20Qutrix%20Assignment.mp4)
-
 ## 🚀 Getting Started Locally
 
 ```bash
